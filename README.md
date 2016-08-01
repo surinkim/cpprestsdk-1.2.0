@@ -11,6 +11,7 @@ cpprestsdk 1.2.0 is the last version that supports visual studio 2010.
 > for Visual Studio 2010.
 
 For static build, I've changed some project property and `#define`.
+
 I've also added [a simple console demo](https://github.com/surinkim/cpprestsdk-1.2.0/tree/master/Release/src/Demo) for testing just.
 
 
